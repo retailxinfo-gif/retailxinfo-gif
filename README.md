@@ -1,4 +1,4 @@
-# 🚀 RatailX
+# 🚀 RetailX
 
 [![Website](https://img.shields.io/badge/Website-www.ratailx.com-blue)](https://www.ratailx.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-RatailX-blue?logo=linkedin)](https://linkedin.com/company/ratailx)
